@@ -1,0 +1,17 @@
+langchain-groq
+groq
+langchain-classic
+langchain-core
+langchain-community
+langchain
+tiktoken
+numpy
+transformers
+langgraph
+python-dotenv
+ddgs
+langchain-tavily
+ollama
+scikit-learn
+pypdf
+langgraph-checkpoint-sqlite
